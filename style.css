@@ -1,0 +1,263 @@
+*{
+  font-family: sans-serif;
+}
+div {
+    width: 15px;
+    height: 15px;
+    float: left;
+    display: inline-block;
+
+}
+
+body {
+    width: 80%;
+    height: 80%;
+    background-color: black;
+    color: #fff;
+    display: inline-block;
+    float: left;
+}
+
+.container {
+  font-weight: 800;
+  position: relative;
+  max-width: 100%;
+  max-height: 100%;
+   font-size: 30px;
+  text-align: center;
+
+}
+
+#colorPicker{
+  height:90px;
+  width: 90px;
+  border-radius: 80%;
+  color: white;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.containerDiv{
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  padding: 20px 20px;
+}
+
+.pixel{
+  width: 15px;
+  height: 15px;
+  float: left;
+  border: 1px solid rgb(159, 159, 159);
+  display: inline-block;
+}
+
+span {
+    display: block;
+}
+.title {
+    font-weight: 800;
+    text-transform: capitalize;
+    font-size: 90px;
+    letter-spacing: 20px;
+    margin: 0 0;
+}
+
+.circleDiv {
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #FFFF00;
+}
+
+.circleDiv1 {
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #83f52c;
+}
+
+.circleDiv2 {
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #FF6700;
+}
+
+.circleDiv3 {
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #FD1C03;
+}
+
+.circleDiv4 {
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #0033FF;
+}
+
+.circleDiv5 {
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #FF0099;
+}
+
+.circleDiv6 {
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #CC00FF;
+}
+
+.circleDiv7 {
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #00FFFF;
+}
+
+.circleDiv8 {
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #00EE00;
+}
+
+.circleDiv9 {
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #67C8FF;
+}
+
+.circleDiv10 {
+    width: 300px;
+    height: 30px;
+    background-color: rgba(#ffffff, 0);
+    border: none;
+    font-size: 30px;
+}
+
+
+.circleDivMo {
+    float: right;
+    width: 150px;
+    height: 30px;
+    background-color: rgba(#ffffff, 0);
+    border: none;
+    font-size: 30px;
+}
+
+.circleDiv11 {
+    float: right;
+    border: 1px solid rgb(159, 159, 159);
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #FFFF00;
+}
+
+.circleDiv12 {
+    float: right;
+    border: 1px solid rgb(159, 159, 159);
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #83f52c;
+}
+
+.circleDiv13 {
+    float: right;
+    border: 1px solid rgb(159, 159, 159);
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #FF6700;
+}
+
+.circleDiv14 {
+    float: right;
+    border: 1px solid rgb(159, 159, 159);
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #FD1C03;
+}
+
+.circleDiv15 {
+    float: right;
+    border: 1px solid rgb(159, 159, 159);
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #0033FF;
+}
+
+.circleDiv16 {
+    float: right;
+    border: 1px solid rgb(159, 159, 159);
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #FF0099;
+}
+
+.circleDiv17 {
+    float: right;
+    border: 1px solid rgb(159, 159, 159);
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #CC00FF;
+}
+
+.circleDiv18 {
+    float: right;
+    border: 1px solid rgb(159, 159, 159);
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #00FFFF;
+}
+
+.circleDiv19 {
+    float: right;
+    border: 1px solid rgb(159, 159, 159);
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #00EE00;
+}
+
+.circleDiv20 {
+    float: right;
+    border: 1px solid rgb(159, 159, 159);
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 80%;
+    background-color: #67C8FF;
+}
+
+.circleDiv21 {
+    width: 3px;
+    height: 3px;
+    background-color: #fff;
+
+}
+
+.btn {
+  background-color: #00EE00;
+  margin: 20px 50%;
+}
